@@ -1,0 +1,12 @@
+build/
+bin/
+*.o
+*.a
+*.so
+*.cubin
+*.sass
+*.ptx
+.cache/
+logs/
+model/
+cache/
